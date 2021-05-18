@@ -4,8 +4,8 @@ var max = 100;
 
 for(i = 2; i <= max; i++) {
 
-var j = 1;
-var racine = Math.floor(Math.sqrt(i));
+let j = 1;
+let racine = Math.floor(Math.sqrt(i));
 
 do {
 j++;
