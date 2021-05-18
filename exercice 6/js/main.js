@@ -1,5 +1,4 @@
 
 function changeColor(){
-    document.bgColor= "#fffggf";
+    document.body.style.backgroundColor = "yellow";
 }
-
